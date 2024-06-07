@@ -1,0 +1,7 @@
+[
+    {"name": "Doctor A", "specialization": "Cardiology", "rating": 4.5, "image": "assets/images/doct1.jpg", "description": "Description for Doctor A"},
+    {"name": "Doctor B", "specialization": "Neurology", "rating": 4.0, "image": "assets/images/doct2.jpg", "description": "Description for Doctor B"},
+    {"name": "Doctor C", "specialization": "Orthopedics", "rating": 4.2, "image": "assets/images/doct3.jpg", "description": "Description for Doctor C"}
+    
+  ]
+  
